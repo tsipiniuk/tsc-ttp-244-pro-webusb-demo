@@ -1,7 +1,7 @@
 # TSC TTP-244 Pro WebUSB Demo
 
 Demo of user WebUSB API with a printer TSC TTP-244 Pro by USB
-[](screen.png)
+[](https://github.com/tsipiniuk/tsc-ttp-244-pro-webusb-demo/screen.png)
 
 ## Build Setup
 
